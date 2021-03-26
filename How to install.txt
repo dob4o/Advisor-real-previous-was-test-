@@ -1,0 +1,2 @@
+Put sh_advisor.lua in Schemas/faction
+Put advisorfix.lua in plugins
